@@ -1,5 +1,4 @@
 #include <stdbool.h>
-
 #include "Python.h"
 #include "code.h"
 #include "structmember.h"
